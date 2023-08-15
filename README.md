@@ -1,4 +1,4 @@
-# hlsplayerpluginwordpress
+# HLS Player Plugin for Wordpress
 Expert Clappr HLS Player. A WordPress plugin for playing HLS streams using Clappr.io.
 
 /**
